@@ -19,13 +19,13 @@ The app should not be used while driving or operating any vehicles and Lake Coun
 
 The app does use third-party services that declare their Terms and Conditions.
 Link to Terms and Conditions of third-party service providers used by the app:
-•	[Google Play Services](https://policies.google.com/terms)
-•	[Google Analytics for Firebase](https://www.google.com/analytics/terms/)
-•	[Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+•	[Google Play Services](https://policies.google.com/terms)\
+•	[Google Analytics for Firebase](https://www.google.com/analytics/terms/)\
+•	[Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)\
 
 **Changes to This Terms and Conditions**\
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
-These terms and conditions are effective as of 2024-02-01
+These terms and conditions are effective as of 2024-02-16
 
 **Contact Us**\
 If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at [passage@lakecountyil.gov](mailto:passage@lakecountyil.gov)

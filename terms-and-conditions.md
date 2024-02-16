@@ -18,10 +18,10 @@ With respect to Lake County’s responsibility for your use of the app, when you
 The app should not be used while driving or operating any vehicles and Lake County accepts no responsibility or liability for any loss or injury resulting from using the app in this manner.
 
 The app does use third-party services that declare their Terms and Conditions.
-Link to Terms and Conditions of third-party service providers used by the app:
+Link to Terms and Conditions of third-party service providers used by the app:\
 •	[Google Play Services](https://policies.google.com/terms)\
 •	[Google Analytics for Firebase](https://www.google.com/analytics/terms/)\
-•	[Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)\
+•	[Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
 **Changes to This Terms and Conditions**\
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.

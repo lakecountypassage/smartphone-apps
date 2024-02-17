@@ -1,1 +1,36 @@
 
+v2.3 (Sept 19th)
+- Built for iOS13
+- Dark theme! (uses iOS13 system settings)
+- Snowplow vehicle layer, including plowing information and snapshots (AVL)
+- Fix bug in the layer chooser window
+- User configurable theme override - coming soon, iOS13 only
+
+v2.2 (Sept 7th, 2019)
+- Add initial support for iOS13
+- New Google base map theme (for both light and dark modes)
+- Added support for "open" events (after a road closure)
+- Bug fixes
+
+v2.1 (Aug 12th, 2019)
+- Add Highway Advisory Radio (HAR 1620AM) player
+- Add Snowplows/AVL support (Coming fall 2019)
+- Add In-app messaging
+- Add remote config
+- Add the ability to toggle AVL layer remotely (remote config)
+- Other fixes/cleanup
+
+v2.0 (May 9th, 2019)
+- Complete redesign of the app's user interface
+- Real-time incident and roadwork events now have more details
+- List of incident and roadwork events
+- List of cameras
+- Snapshot icons group at different zoom levels to reduce icon clutter
+- Snapshots have full screen and zoom controls
+- Reporting feature with incident type and user's location
+- Quick shortcuts to call or email the Transportation Management Center (TMC)
+- iPad support
+- Updated to the latest iOS Swift support
+
+v1.0 (2010-ish)
+- initial app

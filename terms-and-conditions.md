@@ -1,11 +1,16 @@
-**Updated 2024-02-16**
+---
+layout: post
+title: "Terms & Conditions"
+permalink: /terms-and-conditions
+modified_date: 2024-02-16
+---
+<br>
 
-**Terms & Conditions**\
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Lake County.
 
 Lake County is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-**By using the Lake County PASSAGE app you agree to waive any claim you may otherwise have that arises out of your use of the app.**\
+**By using the Lake County PASSAGE app you agree to waive any claim you may otherwise have that arises out of your use of the app.**
 
 Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Lake County cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
@@ -26,7 +31,4 @@ Link to Terms and Conditions of third-party service providers used by the app:\
 **Changes to This Terms and Conditions**\
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
 These terms and conditions are effective as of 2024-02-16
-
-**Contact Us**\
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at [passage@lakecountyil.gov](mailto:passage@lakecountyil.gov)
 

@@ -2,6 +2,13 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+.round-image {
+  border-radius: 50%; /* Makes the image a circle */
+  object-fit: cover; /* Ensures the image fills the circle */
+  width: 50px;      /* Set a fixed width */
+  height: 50px;     /* Set a fixed height (equal to width for a perfect circle) */
+  }
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";

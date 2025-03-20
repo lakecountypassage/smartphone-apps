@@ -64,6 +64,9 @@ minima:
    - title: PASSAGE at X (formerly Twitter)
      icon: x-twitter
      url: "https://x.com/lcpassage"
+   - title: Instagram
+     icon: instagram
+     url: "https://www.instagram.com/lakecountypassage"
    - title: Android App
      icon: google-play
      url: "https://play.google.com/store/apps/details?id=com.lakecountypassage&hl=en_US"
